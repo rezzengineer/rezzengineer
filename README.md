@@ -5,7 +5,7 @@ Lifelong Learner, network engineering student.
 
 ### <summary><strong>Tools:</strong></summary>
 <p>
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+    <img src="https://img.shields.io/badge/Network%20Engineering-Cisco%20Packet%20Tracer-blue?&logo=Cisco%20Packet%20Tracer&logoColor=blue" />
 </p>
 
 ### <summary><strong>Yosh!</strong></summary>
