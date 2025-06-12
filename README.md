@@ -12,7 +12,7 @@ Lifelong Learner, network engineering student.
 <p>
     - :keyboard: I’m currently learning Network Engineering. </br>
     - :speech_balloon: Ask me about anything.</br>
-    - :mailbox: How to reach me: <a href="mailto:rezahakimarafah23@gmail.com">Email me!</a>  </br>
+    - :mailbox: How to reach me: <a href="mailto:rezahakm@rezzengineer.my.id">Email me!</a>  </br>
     - :cloud: Pronouns: He/Him. </br>
     - :game_die: Gaming are part of me. </br>
 <p>
@@ -24,6 +24,6 @@ Lifelong Learner, network engineering student.
 <a href="https://www.instagram.com/reezakim/">
   <img align="left" alt="Goo's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
 </a>
-<a href="https://yours.com/">
+<a href="https://rezzengineer.my.id">
   <img align="left" alt="Goo's Blog" width="20px" src="https://simpleicons.now.sh/blogger/495f7e" />
 </a>
