@@ -24,6 +24,6 @@ Lifelong Learner, network engineering student.
 <a href="https://www.instagram.com/reezakim/">
   <img align="left" alt="Goo's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
 </a>
-<a href="https://rezzengineer.my.id">
+<a href="https://rezzengineer.my.id" target="_blank">
   <img align="left" alt="Goo's Blog" width="20px" src="https://simpleicons.now.sh/blogger/495f7e" />
 </a>
