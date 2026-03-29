@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=120&section=header&text=&fontSize=0" />
 
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Reza Hakim+%F0%9F%91%8B;Junior+DevOps+Enthusiast;Infra+%26+Automation+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+RezaHakim+%F0%9F%91%8B;Junior+DevOps+Enthusiast;Infra+%26+Automation+Learner" alt="Typing SVG" />
 </h1>
 
 <p>
