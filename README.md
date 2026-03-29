@@ -15,7 +15,7 @@
 
 <!-- SOCIAL BADGES -->
 <p>
-  <a href="https://github.com/USERNAME">
+  <a href="https://github.com/rezzengineer">
     <img src="https://img.shields.io/github/followers/USERNAME?label=Followers&style=flat-square&color=58A6FF&labelColor=0d1117" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=rezzengineer&style=flat-square&color=58A6FF&label=Profile+Views" />
