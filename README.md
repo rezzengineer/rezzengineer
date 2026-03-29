@@ -1,14 +1,11 @@
 <div align="center">
 
-<!-- HEADER WAVE -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=120&section=header&text=&fontSize=0" />
 
-<!-- NAME & TITLE -->
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Reza+%F0%9F%91%8B;Junior+DevOps+Enthusiast;Infra+%26+Automation+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Reza Hakim+%F0%9F%91%8B;Junior+DevOps+Enthusiast;Infra+%26+Automation+Learner" alt="Typing SVG" />
 </h1>
 
-<!-- TAGLINE -->
 <p>
   <em>Kelas 12 TKJ · IT Intern · Obsessed with clean infra, automation & self-hosted everything</em>
 </p>
@@ -16,7 +13,7 @@
 <!-- SOCIAL BADGES -->
 <p>
   <a href="https://github.com/rezzengineer">
-    <img src="https://img.shields.io/github/followers/USERNAME?label=Followers&style=flat-square&color=58A6FF&labelColor=0d1117" />
+    <img src="https://img.shields.io/github/followers/rezzengineer?label=Followers&style=flat-square&color=58A6FF&labelColor=0d1117" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=rezzengineer&style=flat-square&color=58A6FF&label=Profile+Views" />
   <img src="https://img.shields.io/badge/Open%20to-Collaborate-58A6FF?style=flat-square&labelColor=0d1117" />
@@ -29,7 +26,7 @@
 ## ` whoami `
 
 ```yaml
-name       : Reza
+name       : Reza Hakim Arafah
 role       : Junior IT / DevOps Enthusiast
 status     : IT Intern @ Company · Grade 12 TKJ Student
 location   : Indonesia 🇮🇩
@@ -79,8 +76,8 @@ currently  : Learning containerization, monitoring stacks & network automation
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&count_private=true" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=6" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=rezzzengineer&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&count_private=true" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezzzengineer&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=6" />
 
 </div>
 
@@ -96,7 +93,7 @@ currently  : Learning containerization, monitoring stacks & network automation
 
 <div align="center">
 
-[![Reza's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rezzzengineer&theme=github-compact&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&hide_border=true)](https://github.com/rezzengineer)
+[![Reza's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rezzengineer&theme=github-compact&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&hide_border=true)](https://github.com/rezzengineer)
 
 </div>
 
@@ -118,9 +115,9 @@ currently  : Learning containerization, monitoring stacks & network automation
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Reza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Reza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rezahakim)
 [![GitHub](https://img.shields.io/badge/GitHub-@rezzengineer-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rezzengineer)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rezahakima@gmail.com)
 
 </div>
 
@@ -130,6 +127,6 @@ currently  : Learning containerization, monitoring stacks & network automation
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=80&section=footer" />
 
-<sub>⚡ Profile auto-generated with passion · <a href="https://github.com/rezzengineer">@rezzzengineer</a> · Indonesia 🇮🇩</sub>
+<sub>⚡ Profile auto-generated with passion · <a href="https://github.com/rezzengineer">@rezzengineer</a> · Indonesia 🇮🇩</sub>
 
 </div>
