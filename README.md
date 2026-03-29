@@ -18,7 +18,7 @@
   <a href="https://github.com/USERNAME">
     <img src="https://img.shields.io/github/followers/USERNAME?label=Followers&style=flat-square&color=58A6FF&labelColor=0d1117" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&style=flat-square&color=58A6FF&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=rezzengineer&style=flat-square&color=58A6FF&label=Profile+Views" />
   <img src="https://img.shields.io/badge/Open%20to-Collaborate-58A6FF?style=flat-square&labelColor=0d1117" />
 </p>
 
