@@ -86,7 +86,7 @@ currently  : Learning containerization, monitoring stacks & network automation
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=USERNAME&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" />
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=rezzengineer&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" />
 
 </div>
 
@@ -119,7 +119,7 @@ currently  : Learning containerization, monitoring stacks & network automation
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Reza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAME)
-[![GitHub](https://img.shields.io/badge/GitHub-@USERNAME-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-@rezzengineer-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rezzengineer)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
 </div>
@@ -130,6 +130,6 @@ currently  : Learning containerization, monitoring stacks & network automation
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=80&section=footer" />
 
-<sub>⚡ Profile auto-generated with passion · <a href="https://github.com/USERNAME">@USERNAME</a> · Indonesia 🇮🇩</sub>
+<sub>⚡ Profile auto-generated with passion · <a href="https://github.com/rezzengineer">@rezzzengineer</a> · Indonesia 🇮🇩</sub>
 
 </div>
